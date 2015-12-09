@@ -1,1 +1,2 @@
-Toto je druhy dokument
+Toto je druhy dokument, 
+mal by byt prerobeny v branchy mistr
